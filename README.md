@@ -15,7 +15,7 @@ My goal is to be the person a team can rely on for clarity, speed, and technical
 
 ---
 
-### What I’m Building Right Now
+#### What I’m Building Right Now
 
 I’m developing a unified portfolio that demonstrates competency across multiple data roles, including:
 
@@ -27,7 +27,7 @@ I’m developing a unified portfolio that demonstrates competency across multipl
 
 ---
 
-### How I Work
+#### How I Work
 
 I prioritize:
 
@@ -41,7 +41,7 @@ I believe the best data professionals are the ones who can communicate clearly, 
 
 ---
 
-### What I’m Looking For
+#### What I’m Looking For
 
 I’m open to roles where I can contribute to:
 
@@ -55,6 +55,6 @@ I bring a combination of business understanding, technical depth, and execution 
 
 ---
 
-## Let’s Connect
+#### Let’s Connect
 
 If you’re looking for someone who can analyze, automate, model, visualize, and communicate, I’d love to talk.
