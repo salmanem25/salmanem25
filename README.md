@@ -27,30 +27,6 @@ I’m developing a unified portfolio that demonstrates competency across multipl
 
 ---
 
-#### How I Work
-
-I prioritize:
-
-- Clarity over complexity  
-- Reproducibility over shortcuts  
-- Business value over technical noise  
-- Documentation over assumptions  
-- Execution over theory  
-
-I believe the best data professionals are the ones who can communicate clearly, build reliably, and deliver consistently.
-
----
-
-#### What I’m Looking For
-
-I’m open to roles where I can contribute to:
-
-- Data analysis  
-- BI engineering  
-- Analytics engineering  
-- Experimentation & product analytics  
-- Data pipeline development  
-
 I bring a combination of business understanding, technical depth, and execution discipline that allows me to support multiple parts of the data stack.
 
 ---
