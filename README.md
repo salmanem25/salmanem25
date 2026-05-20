@@ -1,16 +1,97 @@
-## Hi there 👋
+### Hi, I’m Salman — Business Analytics Graduate & Data Systems Builder
 
-<!--
-**salmanem25/salmanem25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Business Analytics graduate who specializes in turning raw data into clean pipelines, actionable insights, and decision‑ready dashboards. My focus is building practical, reliable, end‑to‑end data solutions that help teams move faster and make better decisions.
 
-Here are some ideas to get you started:
+I work across the full analytics lifecycle:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- SQL development - complex queries, modeling, performance tuning  
+- Python analytics - data cleaning, automation, APIs, exploratory analysis  
+- Power BI dashboards - executive‑ready reporting and KPI tracking  
+- A/B testing & experimentation - statistical analysis and experiment design  
+- Cloud data workflows - AWS/Azure fundamentals, ETL/ELT pipelines  
+- Business communication - clear writing, structured insights, stakeholder alignment  
+
+My goal is to be the person a team can rely on for clarity, speed, and technical execution - whether the problem is analytical, engineering‑focused, or business‑driven.
+
+---
+
+### What I’m Building Right Now
+
+I’m developing a unified portfolio that demonstrates competency across multiple data roles, including:
+
+- Data Analyst  
+- BI Engineer  
+- Analytics Engineer  
+- Product Analyst  
+- Junior Data Engineer
+
+Each repository focuses on a specific skill area, with clean documentation and reproducible work.
+
+---
+
+## Repository Structure
+
+### 1. SQL Projects
+- Advanced queries  
+- Window functions  
+- CTEs  
+- Data modeling  
+- Real‑world case studies  
+
+### 2. Python Analytics
+- Data cleaning pipelines  
+- API integrations  
+- Automation scripts  
+- Exploratory data analysis  
+
+### 3. Power BI Dashboards
+- Sales performance  
+- Marketing funnels  
+- Operations efficiency  
+- Executive KPI reporting  
+
+### 4. A/B Testing & Experimentation
+- Experiment design  
+- Statistical testing  
+- Business impact analysis  
+- Research‑style writeups  
+
+### 5. Cloud & ETL Pipelines
+- AWS S3 + Lambda workflows  
+- Azure Data Factory pipelines  
+- BigQuery analytics  
+- End‑to‑end ETL/ELT examples  
+
+---
+
+### How I Work
+
+I prioritize:
+
+- Clarity over complexity  
+- Reproducibility over shortcuts  
+- Business value over technical noise  
+- Documentation over assumptions  
+- Execution over theory  
+
+I believe the best data professionals are the ones who can communicate clearly, build reliably, and deliver consistently.
+
+---
+
+### What I’m Looking For
+
+I’m open to roles where I can contribute to:
+
+- Data analysis  
+- BI engineering  
+- Analytics engineering  
+- Experimentation & product analytics  
+- Data pipeline development  
+
+I bring a combination of business understanding, technical depth, and execution discipline that allows me to support multiple parts of the data stack.
+
+---
+
+## Let’s Connect
+
+If you’re looking for someone who can analyze, automate, model, visualize, and communicate, I’d love to talk.
