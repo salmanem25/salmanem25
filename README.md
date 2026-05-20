@@ -1,4 +1,4 @@
-### Hi, I’m Salman — Business Analytics Graduate & Data Systems Builder
+### Hi, I’m Salman - Business Analytics Graduate & Data Systems Builder
 
 I’m a Business Analytics graduate who specializes in turning raw data into clean pipelines, actionable insights, and decision‑ready dashboards. My focus is building practical, reliable, end‑to‑end data solutions that help teams move faster and make better decisions.
 
