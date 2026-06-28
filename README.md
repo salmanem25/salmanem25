@@ -42,7 +42,7 @@ Along with my analytical projects, I bring practical commercial experience from 
 
 ### Let's Connect
 
-If you're looking for a proactive, detail-driven analyst who can write the queries, build the models, and communicate the *"why"* to stakeholders — let's chat:
+If you're looking for a proactive, detail-driven analyst who can write the queries, build the models, and communicate the *"why"* to stakeholders - let's chat:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salmanem25)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.salmanem@gmail.com)
