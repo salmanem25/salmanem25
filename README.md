@@ -19,7 +19,7 @@ I bridge the gap between technical data engineering and commercial strategy - co
 
 ### Featured Project
 
-#### [The Commuting–Environment Nexus](https://github.com/salmanem25/Econ_396_Final_Project.git)
+#### [The Commuting–Environment Nexus](https://github.com/salmanem25/Commuting-Environment-Nexus.git)
 *Independent Research · R, Census / EPA / NOAA APIs*
 
 > An end-to-end data pipeline and statistical analysis testing associations between urban congestion, transit usage, and air quality.
